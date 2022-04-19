@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/authors")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://library-lab2-emt-front.herokuapp.com")
 public class AuthorRestController {
     private final AuthorService authorService;
     private final CountryService countryService;

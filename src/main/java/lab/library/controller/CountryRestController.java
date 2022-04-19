@@ -10,7 +10,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/countries")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://library-lab2-emt-front.herokuapp.com")
 public class CountryRestController {
     private final CountryService countryService;
 
