@@ -34,7 +34,7 @@ If you create a profile your name would be in this 'list of authors'.
 
 
 ## Contacts
-Bojan Dukovski,
-Bitola, Republic of Macedonia,
-075546989
+Bojan Dukovski, <br>
+Bitola, Republic of Macedonia, <br>
+075546989 <br>
 <a href="https://www.linkedin.com/in/Bojan Dukovski"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:bojan.dukovski211@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
